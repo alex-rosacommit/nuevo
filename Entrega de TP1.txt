@@ -1,0 +1,9 @@
+======================================================== TRABAJO PRACTICO N° 1 ========================================================
+
+Hé dividido el practico en 2 partes, punto 1 por un lado y punto 2 por otro, ambos enrepositorios en Github por separado.
+
+adjunto los links a los repositorios correspondientes:
+
+Ejercicios TP1 parte-1: https://github.com/alex-rosacommit/AlexRosa-ArgProg-Tp1-Part1.git
+
+Ejercicios TP1 parte-2: https://github.com/alex-rosacommit/AlexRosa-ArgProg-Tp1-Part2.git
